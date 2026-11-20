@@ -1,0 +1,8 @@
+{
+  "name": "NOIRA — Maison de Parfumerie",
+  "description": "Haute parfumerie crafted in Paris. Explore signature, feminine, masculine, and exclusive luxury fragrances by NOIRA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
